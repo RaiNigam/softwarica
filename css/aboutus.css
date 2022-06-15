@@ -1,0 +1,319 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+    font-family: 'Lato', sans-serif;
+
+}
+
+.header1 {
+    padding: 2px 0;
+}
+
+.LMS {
+    background-color: #4054b2;
+    width: fit-content;
+    height: 45px;
+    padding: 5px 25px 0 25px;
+}
+
+.LMS p {
+    color: white;
+    font-size: 20px;
+}
+
+.header1 {
+    background-color: black;
+}
+
+.header1left a {
+    text-decoration: none;
+}
+
+.LMS:hover {
+    background-color: #3068AB;
+}
+
+.header1left i {
+    color: white;
+    margin-left: 30px;
+}
+
+.header1left i:hover {
+    background-color: #3068AB;
+    padding: 10px 15px;
+
+}
+
+.header1left :nth-child(2) {
+    margin-left: -20px;
+}
+
+.header1right {
+    color: white;
+    font-size: 15px;
+    width: 100%;
+
+}
+
+.numail i {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.admit {
+    margin-left: 40px;
+}
+
+.logo img {
+    height: 55px;
+    max-width: 477px;
+}
+
+.header2 {
+    margin-left: 150px;
+    text-align: end;
+
+}
+
+.list li {
+    margin-left: 23px;
+}
+
+.drop li {
+    height: 40px;
+    width: 100%;
+
+    font-size: 12px;
+    margin-left: -1px;
+
+}
+
+.drop li:hover,
+.drop li a:hover {
+    background-color: #4054B2;
+
+
+
+}
+
+.footer .col {
+    height: 300px;
+    width: 100%;
+
+    margin-right: 10px;
+}
+
+.footer {
+    height: fit-content;
+    width: 100%;
+    background-color: #001c38;
+
+    padding: 70px 0 20px 0;
+}
+
+.container-fluid {
+    --bs-gutter-x: 0;
+     !important
+}
+
+.colrow1 img {
+    width: 200px;
+    height: 37.73px;
+    margin-bottom: 20px;
+
+}
+
+.facebook {
+    width: fit-content;
+    height: fit-content;
+    background-color: #3b5998;
+    padding: 3px 10px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+
+.facebook i,
+.instagram i,
+.youtube i {
+    color: white;
+}
+
+.instagram {
+    width: fit-content;
+    height: fit-content;
+    background-color: #262626;
+    padding: 3px 10px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+
+.youtube {
+    width: fit-content;
+    height: fit-content;
+    background-color: #cd201f;
+    padding: 3px 10px;
+    border-radius: 10%;
+}
+
+.icon {
+    margin-top: 40px;
+}
+
+.link {
+    font-size: 20px;
+}
+
+.colrow2 ul {
+    margin-left: -29px;
+}
+
+.colrow2 ul li {
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+
+.colrow2 ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.colrow3 ul {
+    margin-left: -29px;
+}
+
+.colrow3 ul li {
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+
+.colrow3 ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.colrow4 i,
+.colrow4 #number,
+.colrow4 #email,
+.colrow4 #locate {
+    color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.colrow4 iframe {
+    margin-top: 20px;
+}
+
+.lastfooter {
+    border-top: 2px solid grey;
+    margin-top: 140px;
+    color: white;
+    height: fit-content;
+
+
+
+
+    padding: 30px 0 0 0;
+
+}
+
+.lastfooter i {
+    font-size: 10px;
+    margin-right: 5px;
+    padding-bottom: 20px;
+
+
+}
+
+.facebookicon {
+    height: 60px;
+    width: 60px;
+
+    background-color: pink;
+    padding: 15px;
+    border-radius:
+        100%;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+
+.facebookicon i {
+    font-size: 30px;
+    color: white;
+}
+
+.colrow1 p,
+.colrow2 p,
+.colrow3 p,
+.colrow4 p {
+    color: white;
+}
+
+.facebook {
+    width: fit-content;
+    height: fit-content;
+    background-color: #3b5998;
+    padding: 3px 10px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+
+.facebook i,
+.instagram i,
+.youtube i {
+    color: white;
+}
+
+.instagram {
+    width: fit-content;
+    height: fit-content;
+    background-color: #262626;
+    padding: 3px 10px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+
+.youtube {
+    width: fit-content;
+    height: fit-content;
+    background-color: #cd201f;
+    padding: 3px 10px;
+    border-radius: 10%;
+}
+
+.bodycontent {
+    width: 100%;
+    height: 400px;
+}
+
+.footer1 {
+    padding: 70px 0 0 0;
+}
+
+.col3 ul {
+    margin-left: 20px;
+}
+
+.col3 ul li a {
+    text-decoration: none;
+}
+
+.col3 ul li a:hover {
+    text-decoration:
+        underline;
+}
+
+.listing li {
+    font-weight: bold;
+}
+
+#teaching {
+    display: block;
+}
+
+.para5 {
+    margin-top: 15px;
+}
