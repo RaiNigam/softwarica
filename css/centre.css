@@ -271,6 +271,14 @@ body{
 .rows{
     margin-bottom: 30px;
 }
+.dropdown a{
+    color:black;
+}
+.dropdown a:hover{
+    text-decoration: underline;
+    color:red;
+    background-color: #081dd6;
+}
 .blog{
     
     font-size: 30px;
@@ -292,6 +300,9 @@ body{
     margin-right:35px;
 
     
+}
+.active{
+    color:orangered;
 }
 .cards2{
     background-color:yellow ;

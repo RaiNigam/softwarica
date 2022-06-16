@@ -279,3 +279,11 @@ tr,th{
     underline;
     color:darkblue;
 }
+.dropdown a{
+    color:black;
+}
+.dropdown a:hover{
+    text-decoration: underline;
+    color:red;
+    background-color: #081dd6;
+}

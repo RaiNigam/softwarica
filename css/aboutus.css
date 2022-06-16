@@ -316,6 +316,14 @@ body {
 .active{
     color:aqua;
 }
+.dropdown a{
+    color:black;
+}
+.dropdown a:hover{
+    text-decoration: underline;
+    color:red;
+    background-color: #081dd6;
+}
 
 .para5 {
     margin-top: 15px;
