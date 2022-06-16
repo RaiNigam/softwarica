@@ -313,6 +313,9 @@ body {
 #teaching {
     display: block;
 }
+.active{
+    color:aqua;
+}
 
 .para5 {
     margin-top: 15px;
